@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+1. HTML
+2. Windows & Unix OS
+3. Git
+   1. Next Js
+   2. TailwindCSS
